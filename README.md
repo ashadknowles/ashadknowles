@@ -8,7 +8,6 @@
 #### :computer: HTML + CSS
 #### :computer: JavaScript
 #### :computer: Python
-#### :computer: Java
 #### :computer: SQL + NoSQL
 
 ### Get In Touch 
