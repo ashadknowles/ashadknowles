@@ -5,7 +5,6 @@
 
 ### Skills
 
-#### :computer: HTML + CSS
 #### :computer: JavaScript
 #### :computer: Python
 #### :computer: SQL + NoSQL
